@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(60deg,lightblue,wheat);
+    text-align: center;
+    background-repeat:inherit;
+    background-color: cover;
+}
+#heading{
+    color: goldenrod;
+    font-size: 70px;
+    text-shadow: 1px 2px 3px;
+}
+#textBox{
+    height: .9cm;
+    width: 10cm;
+    border-radius: .2cm;
+    border: 2px solid white;
+    box-shadow: 0px 4px 3px;
+    background-color: bisque;
+
+}
+#generateButton{
+    height: 1cm;
+    width: 4cm;
+    border-radius: .2cm;
+    box-shadow: 0px 2px 3px;
+    background-color: greenyellow;
+}
+#text{
+    color: black;
+    opacity: .5;
+    text-align: left;
+    margin-left: 6cm;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+#grid{
+    height: 11cm;
+    width: 34cm;
+    border-radius: .8cm;
+    border: 2px solid lightpink;
+    background-color: lightpink;
+    margin: auto;
+    
+}
+#imgs{
+    background-image: url('https://img.freepik.com/free-photo/christmas-background-with-text-space_53876-128580.jpg?w=2000');
+    background-size: cover;
+    height: 2cm;
+    width: 2.5cm;
+    border: 2px solid black;
+    display: block;
+    margin:auto;
+    
+}
+#grid1{
+    border-radius: .8cm;
+    border: 2px solid lightpink;
+    background-color: lightpink;
+    margin: auto;
+}
